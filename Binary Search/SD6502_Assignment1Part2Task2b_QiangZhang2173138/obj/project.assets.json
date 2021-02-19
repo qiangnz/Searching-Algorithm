@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\qiang\\Desktop\\Assignment1_By MOUCHENG MAO_2172503 AND QIANG ZHANG_2173138\\Assignment1\\Part2\\Task2\\2b\\SD6502_Assignment1Part2Task2b_QiangZhang2173138\\SD6502_Assignment1Part2Task2b_QiangZhang2173138.csproj",
+      "projectUniqueName": "C:\\Users\\qiang\\Desktop\\Searching Algorithm\\Searching-Algorithm\\Binary Search\\SD6502_Assignment1Part2Task2b_QiangZhang2173138\\SD6502_Assignment1Part2Task2b_QiangZhang2173138.csproj",
       "projectName": "SD6502_Assignment1Part2Task2b_QiangZhang2173138",
-      "projectPath": "C:\\Users\\qiang\\Desktop\\Assignment1_By MOUCHENG MAO_2172503 AND QIANG ZHANG_2173138\\Assignment1\\Part2\\Task2\\2b\\SD6502_Assignment1Part2Task2b_QiangZhang2173138\\SD6502_Assignment1Part2Task2b_QiangZhang2173138.csproj",
+      "projectPath": "C:\\Users\\qiang\\Desktop\\Searching Algorithm\\Searching-Algorithm\\Binary Search\\SD6502_Assignment1Part2Task2b_QiangZhang2173138\\SD6502_Assignment1Part2Task2b_QiangZhang2173138.csproj",
       "packagesPath": "C:\\Users\\qiang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\qiang\\Desktop\\Assignment1_By MOUCHENG MAO_2172503 AND QIANG ZHANG_2173138\\Assignment1\\Part2\\Task2\\2b\\SD6502_Assignment1Part2Task2b_QiangZhang2173138\\obj\\",
+      "outputPath": "C:\\Users\\qiang\\Desktop\\Searching Algorithm\\Searching-Algorithm\\Binary Search\\SD6502_Assignment1Part2Task2b_QiangZhang2173138\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
